@@ -1,0 +1,6 @@
+TestCase,Source,Destination,ExpectedResult,Browser,Priority
+testGoogleMapsPageLoad,N/A,N/A,Page should load successfully,chrome,high
+testLocationSearch,N/A,Times Square New York NY,Location should be found,chrome,medium
+testRoutePlanning,Times Square New York,Central Park New York,Route should be calculated,chrome,high
+testMapNavigation,N/A,Statue of Liberty,Landmark should be displayed,firefox,low
+testInvalidLocationSearch,N/A,XYZ123InvalidLocation,Should handle gracefully,chrome,low
