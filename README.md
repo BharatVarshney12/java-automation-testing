@@ -1,6 +1,6 @@
 # Java Automation Testing Framework
 
-[![Build Status](https://github.com/BharatVarshney12/java-automation-testing-framework/workflows/CI/badge.svg)](https://github.com/BharatVarshney12/java-automation-testing-framework/actions)
+[![Build Status](https://github.com/BharatVarshney12/java-automation-testing/workflows/CI/badge.svg)](https://github.com/BharatVarshney12/java-automation-testing/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Java](https://img.shields.io/badge/Java-11%2B-orange.svg)](https://www.oracle.com/java/)
 [![Maven](https://img.shields.io/badge/Maven-3.6%2B-blue.svg)](https://maven.apache.org/)
