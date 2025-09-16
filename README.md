@@ -1,5 +1,11 @@
 # Java Automation Testing Framework
 
+[![Build Status](https://github.com/yourusername/java-automation-testing-framework/workflows/CI/badge.svg)](https://github.com/yourusername/java-automation-testing-framework/actions)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Java](https://img.shields.io/badge/Java-11%2B-orange.svg)](https://www.oracle.com/java/)
+[![Maven](https://img.shields.io/badge/Maven-3.6%2B-blue.svg)](https://maven.apache.org/)
+[![Selenium](https://img.shields.io/badge/Selenium-4.15.0-green.svg)](https://selenium.dev/)
+
 A comprehensive Java-based automation testing framework using Maven, Selenium WebDriver, TestNG, and advanced reporting capabilities.
 
 ## 🚀 Features
