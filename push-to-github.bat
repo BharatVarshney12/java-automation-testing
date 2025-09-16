@@ -7,10 +7,10 @@ echo After creating the repository on GitHub.com, run:
 echo.
 echo git push -u origin main
 echo.
-echo Repository URL: https://github.com/BharatVarshney12/java-automation-testing-framework
+echo Repository URL: https://github.com/BharatVarshney12/java-automation-testing
 echo.
 echo Repository Details:
-echo - Name: java-automation-testing-framework
+echo - Name: java-automation-testing
 echo - Owner: BharatVarshney12
 echo - Visibility: Public
 echo - Description: Comprehensive Java automation testing framework
